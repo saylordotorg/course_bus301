@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS301: Human Resource Management"
+course_description: "A survey of the practices and laws that govern how an organization should work with their human capital. Subjects include job analysis, recruitment, training, performance measurement, compensation, safety, and labor relations."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Performance Management and Measurement** <span id="5"></span> 
 *In the last unit, you learned about human capital development and
 training.  Mastering and applying this information is crucial to helping

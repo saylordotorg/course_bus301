@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS301: Human Resource Management"
+course_description: "A survey of the practices and laws that govern how an organization should work with their human capital. Subjects include job analysis, recruitment, training, performance measurement, compensation, safety, and labor relations."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation’s “BUS301 Final Exam”**
     Link: The Saylor Foundation’s [“BUS301 Final

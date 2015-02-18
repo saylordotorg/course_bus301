@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS301: Human Resource Management"
+course_description: "A survey of the practices and laws that govern how an organization should work with their human capital. Subjects include job analysis, recruitment, training, performance measurement, compensation, safety, and labor relations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Nature of Managing Human Capital** <span id="1"></span> 
 *People are a firm’s most valuable resource, and many of the most
 successful firms proudly profess this fact in recruitment materials,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS301: Human Resource Management"
+course_description: "A survey of the practices and laws that govern how an organization should work with their human capital. Subjects include job analysis, recruitment, training, performance measurement, compensation, safety, and labor relations."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Compensation and Benefits** <span id="6"></span> 
 *When an employer is making a hiring decision, he or she must consider a
 number of factors, including the cost of compensating human capital.  In

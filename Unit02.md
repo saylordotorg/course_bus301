@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS301: Human Resource Management"
+course_description: "A survey of the practices and laws that govern how an organization should work with their human capital. Subjects include job analysis, recruitment, training, performance measurement, compensation, safety, and labor relations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Staffing the Organization: Job Analysis and Description**
 <span id="2"></span> 
 *Now that you understand the core components of strategy as applied to
